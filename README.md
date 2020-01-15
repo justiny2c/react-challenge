@@ -11,6 +11,10 @@ Application is able to "Favorite" any of the images, also able to search by Dog 
 
 This exercise is a bare-bones version of one of our client apps, where we ask candidates to build out a small application. The goal: give both the candidate and the Extend team a chance to interact on a realistic, but limited (shooting for just a few hours), task. We see this as a two-way evaluation for the team and the candidate to decide if it's a good fit.
 
+## PR's from other Repo
+![alt text](src/assets/icons/Screen Shot 2020-01-14 at 5.23.04 PM.png)
+![alt text](src/assets/icons/Screen Shot 2020-01-14 at 5.22.43 PM.png)
+
 ### Setup
 Copy this repository to your own private repository on GitHub
 ```

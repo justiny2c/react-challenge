@@ -4,7 +4,6 @@ import styled from '@emotion/styled'
 import { connect } from 'react-redux'
 
 import { AppState } from '../redux/store'
-import { RandomImagesState } from '../redux/types'
 import { addToFavorites, removeFromFavorites } from '../redux/actions'
 
 import Heart from './Heart'
@@ -58,7 +57,6 @@ const Container = styled.div({
   display: 'flex',
   flexFlow: 'row wrap',
   justifyContent: 'flex-start',
-  alignItems: 'flex-start',
   height: '100%',
 })
 
